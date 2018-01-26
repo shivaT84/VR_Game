@@ -11,3 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Abe/Scene/A_TitleScene.unity
     guid: 5053d572073915048947df5010bcd478
+  - enabled: 1
+    path: Assets/ShivaT84/ShivaT84_Scene/ShivaT84_MainScene.unity
+    guid: 745b08ddf0c74fc49b486d694026585f
+  - enabled: 1
+    path: Assets/ShivaT84/ShivaT84_Scene/ShivaT84_EndScene.unity
+    guid: 9717e311526cfcc4e9ed9490b38d42a8

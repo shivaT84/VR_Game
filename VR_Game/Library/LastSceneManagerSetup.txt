@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Abe/Scene/A_TitleScene.unity
+- path: Assets/ShivaT84/ShivaT84_Scene/ShivaT84_MainScene.unity
   isLoaded: 1
   isActive: 1
