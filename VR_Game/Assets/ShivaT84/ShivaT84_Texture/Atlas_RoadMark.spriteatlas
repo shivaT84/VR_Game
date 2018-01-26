@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Atlas_RoadMark
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: fc01d8f11c9028252c8ffa60788ec461
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: fc01d8f11c9028252c8ffa60788ec461
+    totalSpriteSurfaceArea: 1280000
+    packables:
+    - {fileID: 102900000, guid: cbdc90aa0d02ad247b0c60c6013a6e96, type: 3}
+    packedSpriteRenderDataKeys:
+    - 4064db2c1502dcf4b897b410971ff00a: 21300000
+    - f1e17183fe1e1fd43af9d65c0da3731a: 21300000
+    - 70c8840268b451540886f4c0efaf9cfe: 21300000
+    - dffc8e75228c3c94eb09623a44b92976: 21300000
+    - df9fbe7c40e6111429af3d4e92dc2080: 21300000
+    - 6f83c4d4eae9a5c40beb0288088b1cf1: 21300000
+    - 73cc2f2125785104094f903144655471: 21300000
+    - 0d9f1a9d33788e644b74ed4071a403ac: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4064db2c1502dcf4b897b410971ff00a, type: 3}
+  - {fileID: 21300000, guid: f1e17183fe1e1fd43af9d65c0da3731a, type: 3}
+  - {fileID: 21300000, guid: 70c8840268b451540886f4c0efaf9cfe, type: 3}
+  - {fileID: 21300000, guid: dffc8e75228c3c94eb09623a44b92976, type: 3}
+  - {fileID: 21300000, guid: df9fbe7c40e6111429af3d4e92dc2080, type: 3}
+  - {fileID: 21300000, guid: 6f83c4d4eae9a5c40beb0288088b1cf1, type: 3}
+  - {fileID: 21300000, guid: 73cc2f2125785104094f903144655471, type: 3}
+  - {fileID: 21300000, guid: 0d9f1a9d33788e644b74ed4071a403ac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Warning_YRoad
+  - Warning_FallingRocks
+  - Regulation_RoadClosed
+  - Instruction_Stop
+  - None
+  - Warning_Enemy
+  - Instruction_SpinOff
+  - Warning_Jump
+  m_Tag: Atlas_RoadMark
+  m_IsVariant: 0

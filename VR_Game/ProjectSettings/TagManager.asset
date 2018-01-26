@@ -3,7 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FloorCreateEvent
+  - Y_RoadEvent
+  - FloorDeleteEvent
+  - GravityOnEvent
+  - AutoMoveEvent
+  - Left
+  - Right
+  - GameOver
+  - JumpUpEvent
+  - JumpUp
+  - Y_RoadRightEvent
+  - Y_RoadLeftEvent
+  - SpinOffEnemyEvent
+  - SpawnEnemyEvent
+  - Bullet
+  - DeleteEnemyEvent
+  - Fire
+  - EnemyAttack
+  - RollEvent
   layers:
   - Default
   - TransparentFX
